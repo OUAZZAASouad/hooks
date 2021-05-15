@@ -1,0 +1,37 @@
+.search input[type="text"] {
+    width : 50% ;
+    padding-left : 25px;   
+    border-radius : 10px 0px 0px 10px; 
+}
+
+.search input[type="text"]:focus {
+    outline: none;
+    border : 1px solid #008CBA
+}
+
+span{
+    position : absolute;
+    left : 5px;
+    top : 2px;
+    color : gray
+}
+
+.search button{
+    border-radius : 0px 10px 10px 0px; 
+}
+
+button {
+    background-color: #008CBA;
+    color: white;
+    height: 26px;
+    border: none;  
+}
+
+input[type="text"] {
+    height : 22px;
+    border : 1px solid gray
+}
+
+.search button{
+    width: 25%;
+}

@@ -7,4 +7,9 @@
     grid-column-start: 2 ;
     grid-column-end: span 1 ;
     text-align: justify;
+    /* background-color : #141518 */
+}
+
+body{
+    padding: 15px;
 }
